@@ -9,4 +9,4 @@ This project is a Spam Detection App built with Natural Language Processing (NLP
 * Python
 * Natural Language Processing (NLP) with NLTK and Scikit-learn
 * Streamlit for the frontend
-# Naive Bayes algorithm for classification
+* Naive Bayes algorithm for classification
