@@ -56,7 +56,7 @@ set_background("email.jpg")  # Replace with your image file name
 st.markdown("<div class='title'>📧 Spam Detection App</div>", unsafe_allow_html=True)
 
 # Input section
-st.markdown("<div class='input-label'>### Enter the email text below:</div>", unsafe_allow_html=True)
+st.markdown("<div class='input-label'>Enter the email text below:</div>", unsafe_allow_html=True)
 user_input = st.text_area("", height=200)
 
 if st.button("Classify"):
